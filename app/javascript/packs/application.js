@@ -13,14 +13,13 @@ import "bootstrap/dist/js/bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import "boxicons/css/boxicons.min.css";
-require("../vendor/glightbox/css/glightbox.min.css");
-require("../vendor/glightbox/js/glightbox.min");
-require("../vendor/isotope-layout/isotope.pkgd.min");
-require("../vendor/swiper/swiper-bundle.min.css");
-require("../vendor/swiper/swiper-bundle.min");
-require("../vendor/waypoints/noframework.waypoints");
 
 import "stylesheets/style";
+// import "stylesheets/glightbox.css";
+// import "../src/glightbox";
+// import "../src/isotope.pkgd";
+import "../src/noframework.waypoints";
+// import "../src/purecounter";
 import "../src/main";
 
 Rails.start();
