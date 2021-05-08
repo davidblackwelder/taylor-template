@@ -10,8 +10,9 @@ import "channels";
 
 import "bootstrap/dist/js/bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "boxicons/css/boxicons.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
+import "boxicons/css/boxicons.min.css";
+import Glightbox from "glightbox";
 
 import "stylesheets/style";
 import "../src/main";
