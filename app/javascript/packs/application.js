@@ -15,11 +15,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import "boxicons/css/boxicons.min.css";
 
 import "stylesheets/style";
-// import "stylesheets/glightbox.css";
-// import "../src/glightbox";
-// import "../src/isotope.pkgd";
 import "../src/noframework.waypoints";
-// import "../src/purecounter";
 import "../src/main";
 
 Rails.start();
